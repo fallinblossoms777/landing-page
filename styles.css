@@ -1,6 +1,7 @@
 body{
     background: rgb(119, 54, 116);
     font-family: Roboto;
+    margin: 0;
 }
 
 .header {
@@ -74,4 +75,9 @@ img{
     flex-direction: column;
     gap: 25px;
     align-items: flex-start;
+}
+
+.container-information {
+    background-color: white;
+    
 }
