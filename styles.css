@@ -80,6 +80,7 @@ ul{
 .container-information {
     background-color: white;
     padding: 20px;
+    width: 100%;
 }
 
 .contents {
