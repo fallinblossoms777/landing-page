@@ -45,7 +45,6 @@ ul{
 .container-header{
     display: flex;
     flex-direction: column;
-    padding: 0 350px;
 }
 
 .text h1 {
