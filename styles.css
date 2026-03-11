@@ -48,14 +48,14 @@ ul{
     margin-bottom: 60px;
 }
 
-.text h1 {
+.text {
     color: #F9FAF8;
     font-weight: 900;
     font-size: 48px;
     margin: 0;
 }
 
-.text p {
+.text {
     color: #E5E7EB;
     font-size: 18px;
     margin: 0;
@@ -114,7 +114,7 @@ ul{
     color: #5b3057 
 }
 
-.categories p {
+.categories {
     font-size: 20px;
     color: #5b3057;
     font-weight: 500;
@@ -155,4 +155,18 @@ ul{
     border-radius: 30px;
     align-items: center;
     gap: 50px;
+}
+
+.text-for-sing-up{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text-for-sing-up h3 {
+    font-size: 25px;
+}
+
+h1, p, h3 {
+    margin: 0;
 }
