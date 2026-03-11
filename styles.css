@@ -170,3 +170,7 @@ ul{
 h1, p, h3 {
     margin: 0;
 }
+
+.footer {
+    padding: 20px;
+}
