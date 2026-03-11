@@ -35,6 +35,7 @@ ul{
     justify-content: space-between;
     gap: 100px;
     align-items: center;
+    padding: 50px;
 }
 
 .container-header{
