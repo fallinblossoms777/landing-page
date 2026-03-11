@@ -49,16 +49,14 @@ ul{
 }
 
 .text {
-    color: #F9FAF8;
-    font-weight: 900;
-    font-size: 48px;
-    margin: 0;
-}
-
-.text {
     color: #E5E7EB;
     font-size: 18px;
     margin: 0;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: flex-start;
 }
 
 .button {
@@ -66,13 +64,6 @@ ul{
     background: rgb(214, 97, 209);
     padding: 8px 25px;
     border-radius: 30px;
-}
-
-.text{
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
-    align-items: flex-start;
 }
 
 .container-information {
