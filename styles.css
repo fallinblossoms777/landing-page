@@ -2,6 +2,10 @@ body{
     background: rgb(119, 54, 116);
     font-family: Roboto;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }
 
 .header {
